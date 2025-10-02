@@ -18,6 +18,7 @@ setup(
         'xmltodict', 
         'setuptools',
         'jmespath',
+        'python-benedict[all]',
     ],
     entry_points={
         'console_scripts': [
